@@ -1,0 +1,12 @@
+脚本启动于 2018年08月30日 星期四 08时56分12秒
+]777;notify;Command completed;cat rh7_node.txt ]0;root@zhenji:~/sh]7;file://zhenji.tedu.cn/root/sh[?1034h[root@zhenji sh]# clone-auto7
+number of vms: 5
+created rh7_node1					[32;1m[Done][0m
+created rh7_node2					[32;1m[Done][0m
+created rh7_node15					[32;1m[Done][0m
+created rh7_node16					[32;1m[Done][0m
+created rh7_node17					[32;1m[Done][0m
+]777;notify;Command completed;clone-auto7]0;root@zhenji:~/sh]7;file://zhenji.tedu.cn/root/sh[root@zhenji sh]# exit
+exit
+
+Script done on 2018年08月30日 星期四 08时56分15秒
